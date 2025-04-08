@@ -1,8 +1,5 @@
 package com.github.jaybon1.temp;
 
-import org.springframework.stereotype.Component;
-
-@Component
 public class TempComponent {
 
     public String hello() {

@@ -49,6 +49,6 @@ bootJar {
 
 jar {
 	enabled = true
-	// classifier를 제거하여 file name이 temp-module-0.0.5.jar가 되도록 설정
+	// classifier를 제거하여 file name이 temp-module-0.0.0.jar가 되도록 설정
 	archiveClassifier.set('')
 }
